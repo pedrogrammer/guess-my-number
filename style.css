@@ -56,7 +56,7 @@ h1 {
   transform: translate(-50%, -50%);
 }
 
-.number {
+.secret-number {
   background: #eee;
   color: #333;
   font-size: 6rem;
