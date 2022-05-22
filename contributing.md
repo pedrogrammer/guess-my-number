@@ -1,6 +1,18 @@
-# Commit rule
+# Commit rules
 
-If you want to contribute this project, please follow this commit message convention:
+### If you want to contribute to this project, please follow these guidelines:
+
+1. Capitalization and Punctuation: In the subject line, use all lowercase and do not end in punctuation. In the body, capitalize the first word and end in punctuation.
+
+2. Mood: Use the imperative mood in the subject line. For example: Add visual reactions to the correct number.
+
+3. Type of Commit: Specify the type of commit. See the following for additional information.
+
+4. Length: The subject line should ideally be no longer than 50 characters, and the body should restrict to 72 characters.
+
+5. Content: Be direct. Try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of).
+
+### Commit message convention:
 
 [type][optional scope]: [description]
 
